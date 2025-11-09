@@ -4,7 +4,7 @@
 This project analyzes Zepto’s sales and operational performance using **PostgreSQL** for data cleaning and transformation, and **Power BI** for interactive dashboard visualization.  
 The goal is to uncover insights into sales trends, product performance, and customer behavior to support data-driven business decisions.
 
-🎥 **Project Demo:** [Watch on YouTube](https://youtu.be/r4-EQCp5E40?si=53JnBPJQWUd3EUso)
+
 
 ---
 
@@ -58,5 +58,4 @@ Built an **interactive Power BI dashboard** with:
 
 ---
 
-## 📂 Project Structure
 
